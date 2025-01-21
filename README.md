@@ -1,10 +1,10 @@
 # Calculator App
 
-### Light Mode
-![Light Mode](UI/Iphone Calculator Dark mode.png)
+### Light Mode & Dark Mode
+![Light Mode](UI/Iphone Calculator White & Dark mode.png)
 
-### Dark Mode
-![Dark Mode](UI/Iphone Calculator White mode.png)
+<!-- ### Dark Mode
+![Dark Mode](UI/Iphone Calculator White mode.png) -->
 ## 🌟 Overview
 A sleek, user-friendly calculator app designed for all your basic and advanced calculation needs. With support for light and dark themes, it adapts to your preference for a comfortable and stylish experience.
 
