@@ -83,6 +83,7 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## 💌 Acknowledgments
 Special thanks to:
+- Group 6.
    ```
    - Manzi Seka Prince
    - Mucyo Benjamin
@@ -92,7 +93,6 @@ Special thanks to:
    - Mugisha Gad
 
 ```
-- Group 6.
 - The open-source community for tools and inspiration.
 
 ---
