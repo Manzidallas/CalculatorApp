@@ -31,3 +31,77 @@ Make sure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/calculator-app.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd calculator-app
+   ```
+
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+
+4. Run the app:
+   ```bash
+   flutter run
+   ```
+
+5. Choose a connected device or emulator to launch the app.
+
+---
+
+## 📸 Screenshots
+### Light Mode:
+![Light Mode Screenshot](./assets/screenshots/light_mode.png)
+
+### Dark Mode:
+<img src="UI/Iphone Calculator Dark mode.png" style="width: 30%; height: 30%" />
+---
+
+## 🤝 Contributing
+Contributions are welcome! Here's how you can help:
+1. Fork the repository.
+2. Create a feature branch: `git checkout -b feature-name`
+3. Commit your changes: `git commit -m 'Add a feature'`
+4. Push to the branch: `git push origin feature-name`
+5. Submit a pull request.
+
+---
+
+## 🛠️ Technologies Used
+- **Dart**
+- **Flutter**
+
+---
+
+## 📄 License
+This project is licensed under the [MIT License](./LICENSE).
+
+---
+
+## 💌 Acknowledgments
+Special thanks to:
+   ```
+   - Manzi Seka Prince
+   - Mucyo Benjamin
+   - Bahizi Luckynho
+   - Ishimwe Jemver
+   - Mulindahabi Christian
+   - Mugisha Gad
+
+```
+- Group 6.
+- The open-source community for tools and inspiration.
+
+---
+
+## 📬 Contact
+If you have any questions or feedback, feel free to reach out:
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- GitHub: [yourusername](https://github.com/yourusername)
+
+---
+
+### ⭐ Don't forget to leave a star if you like this project!
