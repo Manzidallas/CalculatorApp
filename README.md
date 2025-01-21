@@ -29,7 +29,7 @@ Make sure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/calculator-app.git
+   https://github.com/Manzidallas/CalculatorApp.git
    ```
 
 2. Navigate to the project directory:
