@@ -1,7 +1,7 @@
 # Calculator App
 
 ### Light Mode & Dark Mode
-![Light Mode](UI/Iphone Calculator White & Dark mode.png)
+<img src="UI/Iphone Calculator White mode.png" style="width: 75%; height: 75%" />
 
 <!-- ### Dark Mode
 ![Dark Mode](UI/Iphone Calculator White mode.png) -->
