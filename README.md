@@ -17,7 +17,6 @@ A sleek, user-friendly calculator app designed for all your basic and advanced c
 - **Theme Support**: Light and dark modes to suit your style.
 - **Real-Time Updates**: Instant results as you type.
 
----
 
 ## 🎯 Getting Started
 Follow these steps to get the app running on your local machine.
