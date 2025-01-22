@@ -90,16 +90,15 @@ Special thanks to:
    - Ishimwe Jemver
    - Mulindahabi Christian
    - Mugisha Gad
-
-```
+   ```
 - The open-source community for tools and inspiration.
 
 ---
 
 ## 📬 Contact
 If you have any questions or feedback, feel free to reach out:
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [yourusername](https://github.com/yourusername)
+- Email: [mseka422@gmail.com](mailto:mseka422@gmail.com)
+- GitHub: [Manzidallas](https://github.com/Manzidallas/)
 
 ---
 
